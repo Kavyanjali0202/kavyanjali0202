@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | Open Source Contributor | Tech Enthusiast**  
 
-🌎 [Portfolio](https://kavyanjali0202.github.io/Portfolio/) • 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) • 🐦 [Twitter](https://twitter.com/your-handle)
+🌎 [Portfolio](https://kavyanjali0202.github.io/Portfolio/) • 💼 [LinkedIn](https://www.linkedin.com/in/kavya6820/) • 🐦 [Instagram](https://www.instagram.com/kavya_thunuguntla/?hl=en)
 
 ---
 
@@ -46,8 +46,8 @@
 ---
 
 ### 📫 Get in Touch
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile/)  
+📧 **Email:** tkavya6820@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/kavya6820/)  
 🌍 **Portfolio:** [Your Portfolio](https://kavyanjali0202.github.io/Portfolio/)  
 
 ---
